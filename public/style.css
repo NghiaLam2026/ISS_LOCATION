@@ -1,0 +1,23 @@
+body{
+    background-image: url("galaxy.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#getIssDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 650px;
+}
+
+#getIssDiv button{
+    border: none;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: #FEBDDB;
+    border-color: #9B4267;
+    border: solid 2px;
+}
